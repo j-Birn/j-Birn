@@ -3,8 +3,11 @@
 ### 🌱 Junior JavaScript Developer
 
 My main stack :
-- JavaScript 
-- React && NextJS
-- RTK || MobX
-- TailWind CSS 
-- Chakra || MUI || else
+- JavaScript
+- TypeScript 
+- REACT JS
+- ReduxToolkit
+- TailWind CSS | SCSS
+
+### Check out my site : [jbirn-site.vercel.app/](https://jbirn-site.vercel.app/)
+---
