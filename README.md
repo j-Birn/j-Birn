@@ -9,5 +9,5 @@ My main stack :
 - ReduxToolkit
 - TailWind CSS | SCSS
 
-### Check out my site : [jbirn-site.vercel.app/](https://jbirn-site.vercel.app/)
+### Check out my site -> [jbirn-site.vercel.app/](https://jbirn-site.vercel.app/) <- Загляни на мой сайт
 ---
