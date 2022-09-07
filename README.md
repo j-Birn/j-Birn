@@ -1,8 +1,8 @@
 ## 👋 Hi, I’m Ilija
 
-### 🌱 Junior JavaScript Developer
+### JavaScript Developer
 
-My main stack :
+### My main stack :
 - JavaScript
 - TypeScript 
 - REACT JS
